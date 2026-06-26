@@ -9,8 +9,4 @@ The best ways are:
 Thank You !!
 
 # Summary
-<<<<<<< Updated upstream
 It's a nice repository. More changes
-=======
-It's a nice repository
->>>>>>> Stashed changes
